@@ -13,7 +13,7 @@ Ten projekt pozwala wgrać CV (PDF lub DOCX) i otrzymać najlepsze dopasowania o
 
 ## Przykład działania
 
-CV programisty
+## CV programisty
 Po wgraniu CV programisty aplikacja pokazuje najlepsze dopasowania ofert IT:
 
 ![CV programisty](screenshots/programista.png)
