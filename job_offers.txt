@@ -1,0 +1,324 @@
+Firma: TechSoft
+Stanowisko: Python Developer
+Wymagania: Minimum 2 lata doświadczenia w Pythonie; znajomość Django oraz Django REST Framework; umiejętność projektowania REST API; doświadczenie z Git, Docker, PostgreSQL
+Lokalizacja: Zdalnie
+
+Firma: WebPro
+Stanowisko: Frontend Developer
+Wymagania: Doświadczenie w React (min. 1 rok), znajomość TypeScript, CSS Grid i Flexbox, umiejętność tworzenia responsywnych interfejsów użytkownika; praca z systemami kontroli wersji (Git)
+Lokalizacja: Warszawa
+
+Firma: FinPlus
+Stanowisko: Księgowa
+Wymagania: Doświadczenie w księgowości pełnej lub uproszczonej (KPiR); obsługa programów Symfonia i Płatnik; znajomość przepisów podatkowych VAT i CIT; sporządzanie deklaracji i sprawozdań finansowych
+Lokalizacja: Kraków
+
+Firma: EduMax
+Stanowisko: Nauczyciel języka angielskiego
+Wymagania: Biegłość językowa na poziomie min. C1; ukończone studia filologiczne lub przygotowanie pedagogiczne; doświadczenie w nauczaniu dzieci w wieku szkolnym; umiejętność pracy z grupą
+Lokalizacja: Wrocław
+
+Firma: ElektraPol
+Stanowisko: Elektryk budowlany
+Wymagania: Uprawnienia SEP do 1kV; doświadczenie w montażu instalacji elektrycznych w budynkach mieszkalnych i przemysłowych; umiejętność czytania dokumentacji technicznej i pracy na wysokości
+Lokalizacja: Katowice
+
+Firma: HealthCare24
+Stanowisko: Pielęgniarka
+Wymagania: Aktualne prawo wykonywania zawodu; doświadczenie w opiece szpitalnej lub ambulatoryjnej; komunikatywność, empatia, dyspozycyjność do pracy zmianowej
+Lokalizacja: Gdańsk
+
+Firma: HRPoint
+Stanowisko: Specjalista ds. rekrutacji
+Wymagania: Doświadczenie z systemami ATS (np. eRecruiter, Teamtailor); sourcing kandydatów przez LinkedIn Recruiter; prowadzenie pełnych procesów rekrutacyjnych (IT lub non-IT)
+Lokalizacja: Zdalnie
+
+Firma: SecureIT
+Stanowisko: DevOps Engineer
+Wymagania: Min. 2 lata doświadczenia w DevOps; znajomość Docker, Kubernetes, CI/CD pipelines (GitHub Actions/Jenkins), chmury AWS (EC2, S3, IAM); umiejętność automatyzacji i monitoringu (Prometheus/Grafana)
+Lokalizacja: Zdalnie
+
+Firma: AutoTech
+Stanowisko: Mechanik samochodowy
+Wymagania: Praktyczna znajomość napraw mechanicznych (zawieszenie, układ hamulcowy, silniki); umiejętność korzystania z testerów diagnostycznych; prawo jazdy kat. B
+Lokalizacja: Radom
+
+Firma: Printy
+Stanowisko: Grafik komputerowy
+Wymagania: Znajomość Adobe Photoshop, Illustrator oraz Figma; doświadczenie w przygotowaniu plików do druku i projektów digital; umiejętność tworzenia grafik na social media i materiały reklamowe
+Lokalizacja: Zdalnie
+
+Firma: ProAnalityka
+Stanowisko: Analityk danych
+Wymagania: Znajomość SQL (zapytania złożone), Excel (PowerQuery, PowerPivot), Power BI, podstawy Pythona (pandas, matplotlib); umiejętność wizualizacji danych i analizy biznesowej
+Lokalizacja: Warszawa
+
+Firma: SoftGuard
+Stanowisko: Tester oprogramowania
+Wymagania: Doświadczenie w testach manualnych (min. 1 rok); znajomość cyklu życia błędu; dokumentowanie przypadków testowych; umiejętność pracy z JIRA, TestRail, mile widziana znajomość podstaw automatyzacji
+Lokalizacja: Rzeszów
+
+Firma: ZenSpa
+Stanowisko: Masażysta
+Wymagania: Ukończony kurs masażu klasycznego lub terapeutycznego (min. 120h); umiejętność dopasowania technik do potrzeb klienta; siła fizyczna i wysoka kultura osobista
+Lokalizacja: Toruń
+
+Firma: SpeedFix
+Stanowisko: Serwisant komputerowy
+Wymagania: Umiejętność diagnozy usterek sprzętowych i programowych; reinstalacja systemów operacyjnych (Windows/Linux); obsługa klientów indywidualnych; podstawowa znajomość sieci
+Lokalizacja: Zamość
+
+Firma: CallCenterPro  
+Stanowisko: Konsultant telefoniczny  
+Wymagania: Min. 6 miesięcy doświadczenia w call center; obsługa systemów CRM; odporność na stres, dobra dykcja i praca w systemie zmianowym  
+Lokalizacja: Białystok  
+
+Firma: EduGlobal  
+Stanowisko: Nauczyciel matematyki  
+Wymagania: Wykształcenie kierunkowe (matematyka); minimum 2 lata doświadczenia w nauczaniu w szkole podstawowej lub średniej; umiejętność pracy z grupą; przygotowanie pedagogiczne  
+Lokalizacja: Poznań
+
+Firma: BistroNova  
+Stanowisko: Kucharz  
+Wymagania: Minimum 2 lata doświadczenia w pracy na kuchni; znajomość zasad HACCP; umiejętność pracy pod presją czasu; kreatywność w komponowaniu dań  
+Lokalizacja: Kraków
+
+Firma: SafeBuild  
+Stanowisko: Inżynier budowy  
+Wymagania: Wykształcenie budowlane; umiejętność czytania rysunków technicznych; znajomość AutoCAD i MS Project; doświadczenie w nadzorze robót budowlanych i prowadzeniu dokumentacji budowy  
+Lokalizacja: Opole
+
+Firma: Centrum Fitness  
+Stanowisko: Trener personalny  
+Wymagania: Certyfikat trenera personalnego (np. REPS, PZTF); wiedza z zakresu anatomii i dietetyki; umiejętność pracy z klientem indywidualnym; wysokie umiejętności motywacyjne  
+Lokalizacja: Zdalnie
+
+Firma: Handlowa Sp. z o.o.  
+Stanowisko: Przedstawiciel handlowy  
+Wymagania: Minimum 1 rok doświadczenia w sprzedaży B2B; znajomość technik sprzedaży i negocjacji; prawo jazdy kat. B; mile widziana znajomość branży FMCG  
+Lokalizacja: Lublin
+
+Firma: BeautiLine  
+Stanowisko: Kosmetyczka  
+Wymagania: Ukończona szkoła kosmetyczna; doświadczenie w zabiegach pielęgnacyjnych twarzy i ciała; znajomość manicure hybrydowego; wysoka kultura osobista i komunikatywność  
+Lokalizacja: Kielce
+
+Firma: TransPol  
+Stanowisko: Kierowca C+E  
+Wymagania: Aktualne prawo jazdy kat. C+E; karta kierowcy i ważne badania psychotechniczne; doświadczenie w transporcie krajowym lub międzynarodowym; znajomość zasad czasu pracy kierowcy  
+Lokalizacja: Zduńska Wola
+
+Firma: AquaPark  
+Stanowisko: Ratownik wodny  
+Wymagania: Ważne uprawnienia WOPR i KPP; bardzo dobra kondycja fizyczna; umiejętność pracy z dziećmi i dorosłymi; odporność na stres  
+Lokalizacja: Szczecin
+
+Firma: MobileConnect  
+Stanowisko: Sprzedawca telefonów  
+Wymagania: Doświadczenie w sprzedaży urządzeń mobilnych (smartfony, akcesoria); znajomość systemów operacyjnych Android i iOS; umiejętność doradztwa klientowi i realizacji celów sprzedażowych  
+Lokalizacja: Siedlce
+
+Firma: Urząd Gminy  
+Stanowisko: Referent administracyjny  
+Wymagania: Wykształcenie administracyjne lub pokrewne; znajomość przepisów KPA i ustawy o samorządzie gminnym; bardzo dobra znajomość MS Office (Word, Excel); doświadczenie w pracy biurowej  
+Lokalizacja: Olsztyn
+
+Firma: BlueOcean Tech  
+Stanowisko: Administrator systemów Linux  
+Wymagania: Bardzo dobra znajomość Linux (Debian/Ubuntu); doświadczenie w zarządzaniu serwerami; znajomość bash, cron, systemd; podstawy bezpieczeństwa sieci  
+Lokalizacja: Zdalnie
+
+Firma: EduKids  
+Stanowisko: Nauczyciel wychowania przedszkolnego  
+Wymagania: Wykształcenie pedagogiczne w zakresie edukacji przedszkolnej; empatia; kreatywność; mile widziane doświadczenie z metodą Montessori  
+Lokalizacja: Toruń
+
+Firma: PhotoVision  
+Stanowisko: Fotograf produktowy  
+Wymagania: Doświadczenie w fotografii produktowej (packshot); znajomość Adobe Lightroom i Photoshop; umiejętność pracy w studiu i przy świetle ciągłym  
+Lokalizacja: Łódź
+
+Firma: BuildMaster  
+Stanowisko: Operator koparki  
+Wymagania: Uprawnienia na koparkę klasy I; doświadczenie w robotach ziemnych; umiejętność pracy w zespole; odpowiedzialność  
+Lokalizacja: Kielce
+
+Firma: LawFirm Pro  
+Stanowisko: Asystent prawny  
+Wymagania: Wykształcenie prawnicze lub w trakcie studiów; bardzo dobra znajomość MS Word; umiejętność analizy dokumentów; komunikatywność  
+Lokalizacja: Warszawa
+
+Firma: GameNest  
+Stanowisko: Junior Game Developer  
+Wymagania: Znajomość Unity i C#; znajomość zasad OOP; pasja do tworzenia gier; umiejętność pracy z repozytorium Git  
+Lokalizacja: Zdalnie
+
+Firma: OfficeFix  
+Stanowisko: Serwisant sprzętu biurowego  
+Wymagania: Znajomość naprawy drukarek, kserokopiarek; prawo jazdy kat. B; samodzielność; mile widziane doświadczenie w serwisie mobilnym  
+Lokalizacja: Gdańsk
+
+Firma: TravelSky  
+Stanowisko: Specjalista ds. turystyki  
+Wymagania: Doświadczenie w obsłudze klienta w biurze podróży; znajomość systemów rezerwacyjnych (Amadeus, MerlinX); znajomość języka angielskiego  
+Lokalizacja: Kraków
+
+Firma: AutoSecure  
+Stanowisko: Instalator systemów alarmowych  
+Wymagania: Umiejętność montażu systemów alarmowych, kamer, czujników; znajomość instalacji niskoprądowych; prawo jazdy kat. B  
+Lokalizacja: Częstochowa
+
+Firma: CleanOffice  
+Stanowisko: Koordynator zespołu sprzątającego  
+Wymagania: Doświadczenie w zarządzaniu personelem; znajomość środków czystości; umiejętność pracy z harmonogramami  
+Lokalizacja: Lublin
+
+Firma: OptiLook  
+Stanowisko: Asystent optyka  
+Wymagania: Obsługa klienta; znajomość podstawowych wad wzroku; mile widziane doświadczenie w salonie optycznym; kultura osobista  
+Lokalizacja: Poznań
+
+Firma: MoveNow  
+Stanowisko: Pracownik przeprowadzkowy  
+Wymagania: Dobra kondycja fizyczna; umiejętność pracy w zespole; punktualność; mile widziane prawo jazdy kat. B  
+Lokalizacja: Katowice
+
+Firma: Styluxe  
+Stanowisko: Stylista fryzur damskich  
+Wymagania: Umiejętność wykonywania fryzur okolicznościowych i koloryzacji; komunikatywność; aktualne kursy fryzjerskie  
+Lokalizacja: Warszawa
+
+Firma: SweetBite  
+Stanowisko: Cukiernik  
+Wymagania: Doświadczenie w wypiekach cukierniczych; umiejętność pracy z kremami, biszkoptami i dekoracjami; przestrzeganie zasad higieny  
+Lokalizacja: Rzeszów
+
+Firma: SteelBuild  
+Stanowisko: Spawacz TIG  
+Wymagania: Uprawnienia TIG; znajomość rysunku technicznego; doświadczenie w spawaniu cienkościennych konstrukcji  
+Lokalizacja: Nowy Sącz
+
+Firma: GreenEnergy  
+Stanowisko: Technik instalacji fotowoltaicznych  
+Wymagania: Doświadczenie w montażu PV; znajomość zasad bezpieczeństwa pracy na dachu; mile widziane SEP i UDT  
+Lokalizacja: Bielsko-Biała
+
+Firma: Digibill  
+Stanowisko: Młodszy specjalista ds. fakturowania  
+Wymagania: Znajomość systemów ERP (np. SAP, Comarch); dokładność; podstawy rachunkowości; umiejętność pracy z danymi  
+Lokalizacja: Zdalnie
+
+Firma: LegalDesk  
+Stanowisko: Redaktor treści prawniczych  
+Wymagania: Lekkie pióro; znajomość prawa cywilnego lub pracy; doświadczenie w redakcji tekstów lub blogu; mile widziany WordPress  
+Lokalizacja: Warszawa
+
+Firma: Kids&Play  
+Stanowisko: Animator dziecięcy  
+Wymagania: Doświadczenie w animacjach dla dzieci; kreatywność; umiejętność prowadzenia zabaw grupowych; mile widziany język angielski  
+Lokalizacja: Trójmiasto
+
+Firma: CityCourier  
+Stanowisko: Kurier rowerowy  
+Wymagania: Własny rower; znajomość topografii miasta; punktualność; dobra kondycja fizyczna  
+Lokalizacja: Wrocław
+
+Firma: SmartFinance  
+Stanowisko: Doradca finansowy  
+Wymagania: Znajomość produktów finansowych (kredyty, inwestycje); komunikatywność; doświadczenie w obsłudze klienta; wykształcenie ekonomiczne  
+Lokalizacja: Warszawa
+
+Firma: CodeWorks  
+Stanowisko: Java Developer  
+Wymagania: Znajomość Java, Spring Boot, Hibernate; doświadczenie w pracy z bazami danych (MySQL/PostgreSQL); Git, REST  
+Lokalizacja: Zdalnie
+
+Firma: Hotel Elegance  
+Stanowisko: Recepcjonista  
+Wymagania: Znajomość języka angielskiego; dobra organizacja pracy; doświadczenie w hotelarstwie; znajomość systemów rezerwacyjnych  
+Lokalizacja: Kraków
+
+Firma: MedClinic  
+Stanowisko: Rejestratorka medyczna  
+Wymagania: Komunikatywność; znajomość systemów medycznych; doświadczenie w pracy z pacjentem; punktualność  
+Lokalizacja: Wrocław
+
+Firma: AutoFast  
+Stanowisko: Blacharz samochodowy  
+Wymagania: Doświadczenie w naprawach blacharskich; znajomość technologii lakierniczych; prawo jazdy kat. B; samodzielność  
+Lokalizacja: Lublin
+
+Firma: FoodLine  
+Stanowisko: Kierowca dostawca (kat. B)  
+Wymagania: Prawo jazdy kat. B; punktualność; uczciwość; dobra organizacja pracy  
+Lokalizacja: Poznań
+
+Firma: GardenPro  
+Stanowisko: Ogrodnik  
+Wymagania: Doświadczenie w pielęgnacji terenów zielonych; znajomość roślin; obsługa narzędzi ogrodniczych; sumienność  
+Lokalizacja: Katowice
+
+Firma: VisionCode  
+Stanowisko: UX/UI Designer  
+Wymagania: Figma, Adobe XD; znajomość zasad projektowania zorientowanego na użytkownika; podstawy HTML/CSS; portfolio projektów  
+Lokalizacja: Zdalnie
+
+Firma: BrightEdu  
+Stanowisko: Lektor języka niemieckiego  
+Wymagania: Poziom C1 lub wyższy; doświadczenie w nauczaniu dorosłych; umiejętność pracy online i stacjonarnie; przygotowanie materiałów  
+Lokalizacja: Szczecin
+
+Firma: DentCare  
+Stanowisko: Asystentka stomatologiczna  
+Wymagania: Kurs asystentki stomatologicznej; znajomość procedur gabinetu; umiejętność pracy z pacjentem; sterylizacja narzędzi  
+Lokalizacja: Bydgoszcz
+
+Firma: StudioTech  
+Stanowisko: Operator DTP  
+Wymagania: CorelDRAW, InDesign, Photoshop; przygotowanie plików do druku; dokładność; doświadczenie w pracy w drukarni  
+Lokalizacja: Gdynia
+
+Firma: Piekarnia Rogalik  
+Stanowisko: Piekarz  
+Wymagania: Doświadczenie w wypieku pieczywa tradycyjnego; praca w godzinach nocnych; znajomość przepisów sanitarnych  
+Lokalizacja: Rzeszów
+
+Firma: LuxBeauty  
+Stanowisko: Stylistka paznokci  
+Wymagania: Umiejętność wykonywania manicure hybrydowego, żelowego; dbałość o detale; znajomość zasad higieny; mile widziane portfolio  
+Lokalizacja: Toruń
+
+Firma: ArtDesign  
+Stanowisko: Projektant wnętrz  
+Wymagania: AutoCAD, SketchUp, umiejętność tworzenia wizualizacji 3D; kreatywność; znajomość rynku materiałów wykończeniowych  
+Lokalizacja: Kraków
+
+Firma: LogisTrack  
+Stanowisko: Planista transportu  
+Wymagania: Doświadczenie w organizacji tras; znajomość programów TMS; umiejętność pracy z kierowcami i klientem  
+Lokalizacja: Lublin
+
+Firma: FarmaciaNova  
+Stanowisko: Technik farmaceutyczny  
+Wymagania: Dyplom technika farmaceutycznego; dokładność; znajomość leków i suplementów; obsługa klienta  
+Lokalizacja: Gdańsk
+
+Firma: StudioFilm  
+Stanowisko: Montażysta wideo  
+Wymagania: Adobe Premiere, DaVinci Resolve; umiejętność pracy z narracją i rytmem montażu; podstawy dźwięku i koloru  
+Lokalizacja: Zdalnie
+
+Firma: CityHelp  
+Stanowisko: Pracownik socjalny  
+Wymagania: Wykształcenie kierunkowe (praca socjalna, pedagogika); empatia; znajomość procedur administracyjnych i pomocy społecznej  
+Lokalizacja: Olsztyn
+
+Firma: SpeedTrans  
+Stanowisko: Dyspozytor logistyczny  
+Wymagania: Znajomość przepisów transportu drogowego; komunikatywność; obsługa programów TMS/GPS; dyspozycyjność  
+Lokalizacja: Zduńska Wola
+
+Firma: SkyTower  
+Stanowisko: Konserwator windy  
+Wymagania: Uprawnienia UDT; znajomość zasad działania dźwigów; doświadczenie w konserwacji urządzeń dźwigowych  
+Lokalizacja: Warszawa

@@ -1,0 +1,6 @@
+sentence-transformers
+faiss-cpu
+PyMuPDF
+python-docx
+docx2txt
+PyPDF2
